@@ -1,2 +1,2 @@
 # FilmShop
-Relational database team project aiming to keep track of customers and products. 
+Relational database team project aiming to keep track of customers and products. The business rules were determined first, and the ERD was designed on paper. Then, the database was created in PgAdmin using SQL. Some manipulations were done as seen in the word file(Views, Joins, Union, Index, Metadata). Finally the database was reverse=engineered in PgModeler. The project was done by me and Do Trung Minh.
